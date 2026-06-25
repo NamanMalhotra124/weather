@@ -84,3 +84,7 @@ LinkedIn: *(Add your LinkedIn profile link)*
 ## ⭐ Show your support
 
 If you like this project, consider giving it a ⭐ on GitHub.
+
+## 🌐 Live Demo
+
+🔗 https://namanmalhotra124.github.io/weather/
